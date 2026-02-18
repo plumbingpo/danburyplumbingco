@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danburyplumbingco.com/sitemap.xml
